@@ -1,7 +1,7 @@
 # neural-network
 
-## perceptron model
-## feedforward and backpropagation
+### perceptron model
+ - feedforward and backpropagation
 
-## depends
+### depends
  - Armadillo
